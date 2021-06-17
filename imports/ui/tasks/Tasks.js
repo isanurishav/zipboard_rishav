@@ -37,7 +37,7 @@ export const Tasks = ({ user }) => {
     }
 
     const tasksData = TasksCollection.find(
-      hideDone ? pendingOnlyFilter : userFilter,
+      {},
       {
         sort: { createdAt: -1 },
       }
