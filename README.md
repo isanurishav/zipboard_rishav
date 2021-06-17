@@ -1,1 +1,3 @@
-zipboard project by rishav
+zipboard project by rishav deployed at
+
+http://zipboardrishav.meteorapp.com/
